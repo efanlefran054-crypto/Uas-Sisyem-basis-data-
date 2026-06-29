@@ -1,5 +1,38 @@
 # Uas-Sistem-basis-data-
 <p align="center">
+<br><b>Vector Database</b>
+  </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c85d7a0-7c43-4e99-9afd-031a35e5822e" width="700">
+ 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41a81311-20db-479f-b6d3-f09d206da129" width="700">
+  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca3e2b73-7720-481f-821a-3ba2ba5cc366">
+  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08298362-1807-4e74-99d7-3346b54db4c8">
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecef43c3-3cc0-454d-8bea-f9dc4eacaa4c" width="700">
+ 
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/416e24f3-e344-424d-a9e2-ea8565c24c74" width="700">
+  
+</p>
+
+<p align="center">
 <br><b>NoSql(MongoDB)</b>
   </p>
 <p align="center">
