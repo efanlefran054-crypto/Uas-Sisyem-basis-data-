@@ -1,4 +1,40 @@
-# Uas-Sisyem-basis-data-
+# Uas-Sistem-basis-data-
+<p align="center">
+<br><b>NoSql(MongoDB)</b>
+  </p>
+<p align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a0edc31-5e2c-4685-a89c-af01cc91d963" width="700">
+  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/105d1d64-8883-46ed-8f54-9ad8ba22d7e1" width="700">
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce288475-266c-409a-a24c-8d294a052742" width="700">
+  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bbf166d-96c8-444e-8ebf-e5570409fa60" width="700">
+ 
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/083bfdcb-651f-4b68-90c0-23e6695478e5">
+  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7c4cd6c-773d-4239-8f19-e8f088e1ba1b">
+ 
+</p>
+
+
+
 <p align="center">
 <br><b>MySql</b>
   </p>
